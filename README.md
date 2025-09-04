@@ -5,11 +5,12 @@ I’m a 4th-year Electrical Engineering student at the German International Univ
 
 Core technical skills:
 
-- Embedded systems and microcontroller programming  
+- Embedded systems and microcontroller programming
+- PLC 
 - PCB design and circuit design  
 - Wireless communication systems  
 - Front-end and back-end web development  
-- Programming: C, C++, Python, JavaScript, MATLAB, SQL, HTML, Node.js, Node-RED  
+- Programming: C, C++, Python, JavaScript, MATLAB, SQL, HTML, Node.js, Node-RED, 
 - Software development and data analytics  
 - Project management, research, and engineering management  
 
