@@ -6,6 +6,7 @@ I’m a 4th-year Electrical Engineering student at the German International Univ
 Core technical skills:
 
 - Embedded systems and microcontroller programming
+- PLC
 - PCB design and circuit design  
 - Wireless communication systems  
 - Front-end and back-end web development  
@@ -22,7 +23,7 @@ I’m passionate about continuous learning and innovation and eager to apply my 
 
 <h2>👨‍💻 My Projects</h2>
 
-### Automated Warehouse System  dsa
+### Automated Warehouse System  
 [![C++](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
 [![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-green)]() 
 [![Image Processing](https://img.shields.io/badge/Image-Processing-blue)]()
