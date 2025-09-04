@@ -6,7 +6,7 @@ I’m a 4th-year Electrical Engineering student at the German International Univ
 Core technical skills:
 
 - Embedded systems and microcontroller programming
-- PLC 
+- PLC
 - PCB design and circuit design  
 - Wireless communication systems  
 - Front-end and back-end web development  
