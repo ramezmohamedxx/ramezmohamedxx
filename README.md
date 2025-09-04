@@ -29,7 +29,15 @@ I’m passionate about continuous learning and innovation and eager to apply my 
 - Designed and built an automated warehouse system entirely from scratch.  
 - Integrated an **autonomous delivery car** using **image processing** to detect obstacles and navigate to the warehouse.  
 - Implemented a **barcode scanner** to identify packages, then programmed a **microcontroller** to control an **elevator** that determines whether the package goes to the first or second floor.  
-- Added a **conveyor belt with encoder feedback** to ensure packages are delivered precisely to their destination.  
+- Added a **conveyor belt with encoder feedback** to ensure packages are delivered precisely to their destination.
+
+### PLC Stepper Motor Motion Control System  
+[![Language](https://img.shields.io/badge/Language-Ladder%20Logic-orange)]() [![Language](https://img.shields.io/badge/Language-FBD-yellow)]()   [![Hardware](https://img.shields.io/badge/Hardware-PLC-green)]()  [![Control](https://img.shields.io/badge/Motion-Control-blue)]()  
+
+- Designed and implemented a **motion control system for a stepper motor** using PLC.  
+- Controlled **speed, direction (CW/CCW), and position** of the motor with open-loop control.  
+- Applied **PLC programming and driver interfacing** to achieve reliable motion control.  
+
 
 ### Machine Learning Project (Intro to AI Course)  
 [![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
@@ -74,7 +82,7 @@ I’m passionate about continuous learning and innovation and eager to apply my 
 - Designed and implemented a **ZCD circuit** for a controlled full-wave rectifier.  
 - Gained experience in power electronics and circuit design fundamentals.  
 
-### Solar-Powered Car Battery Charging System (Bachelor Thesis)  
+### Solar-Powered Car Battery Charging System (Research Methodology)  
 [![Research](https://img.shields.io/badge/Research-Solar%20Energy-brightgreen)]()
 - Conducted research and analysis on **solar panel integration for vehicle battery charging**, sourcing data primarily from IEEE.  
 - Evaluated system efficiency and feasibility for real-world application.  
@@ -83,7 +91,9 @@ I’m passionate about continuous learning and innovation and eager to apply my 
 [![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
 [![Image Processing](https://img.shields.io/badge/Image-Processing-blue)]()
 - Built a tool for **image similarity search and retrieval**, exploring different feature extraction methods.  
-- Focused on efficiency, scalability, and practical applications in data management.  
+- Focused on efficiency, scalability, and practical applications in data management.
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
