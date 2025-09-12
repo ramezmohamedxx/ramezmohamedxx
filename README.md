@@ -37,8 +37,15 @@ I’m passionate about continuous learning and innovation and eager to apply my 
 
 - Designed and implemented a **motion control system for a stepper motor** using PLC.  
 - Controlled **speed, direction (CW/CCW), and position** of the motor with open-loop control.  
-- Applied **PLC programming and driver interfacing** to achieve reliable motion control.  
+- Applied **PLC programming and driver interfacing** to achieve reliable motion control.
+   
+### Engineering Equipment Inventory System  
+[![Backend](https://img.shields.io/badge/Backend-Node.js-green)]() [![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)]() [![Frontend](https://img.shields.io/badge/Frontend-jQuery%20%26%20Bootstrap-yellow)]() [![API](https://img.shields.io/badge/API-RESTful-orange)]()  
 
+- Built a **full-stack inventory management system** with PostgreSQL database and RESTful API.  
+- Implemented **CRUD operations**, user authentication, and **role-based access control** (admin/standard user).  
+- Developed a **responsive jQuery + Bootstrap front-end** with search, filtering, and equipment image upload.  
+- Integrated and tested all features using **Postman** to ensure stability and security.  
 
 ### Machine Learning Project (Intro to AI Course)  
 [![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
