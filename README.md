@@ -101,6 +101,21 @@ I’m passionate about continuous learning and innovation and eager to apply my 
 - Built a tool for **image similarity search and retrieval**, exploring different feature extraction methods.  
 - Focused on efficiency, scalability, and practical applications in data management.
 
+### Automated Water Flow Control System  
+[![Hardware](https://img.shields.io/badge/Hardware-Arduino-blue)]() [![Control](https://img.shields.io/badge/Control-PID%20Controller-green)]() [![System](https://img.shields.io/badge/System-Closed%20Loop-orange)]()  
+
+- Developed a **closed-loop flow control system** with motorized valve, pump, and PID controller.  
+- Tested multiple control modes (**On/Off, P, PI, PD, PID**) using sensors and op-amps.  
+- Calibrated and validated system performance under various flow conditions in a closed-tank setup.  
+
+### Christmas Landscape IoT Control  
+[![Platform](https://img.shields.io/badge/Platform-Node--RED-red)]() [![IoT](https://img.shields.io/badge/IoT-Automation-green)]() [![Hardware](https://img.shields.io/badge/Hardware-Microcontrollers-blue)]()  
+
+- Designed a **remotely controlled Christmas landscape display** using Node-RED for automation.  
+- Integrated **programmable LEDs** and microcontrollers for dynamic, interactive lighting effects.  
+- Built an **intuitive control interface** for remote operation.  
+- Enhanced **IoT integration, power management, and real-time control** skills.  
+
 
 
 
